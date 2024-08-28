@@ -11,7 +11,7 @@
 ✉️ &nbsp;You can shoot me an email at narayaurrutia@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [portfolio](https://nicolas-araya.com/) for more details about my personal projects. I'm open to feedback and suggestions!
 
-<img alt="Programmer Coding" src="https://raw.githubusercontent.com/nicolas772/nicolas772/master/assets/programmer.gif" align="right" width="350" height="auto"/>
+<img alt="Programmer Coding" src="https://raw.githubusercontent.com/nicolas772/nicolas772/master/assets/programmer.gif" align="right" width="320"/>
 
 ### 🛠 &nbsp;Tech Stack
 
