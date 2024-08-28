@@ -11,9 +11,9 @@
 🌱 &nbsp;I'm on track for learning more about Cloud Architecture, UX Design and Testing tools.\
 ✍️ &nbsp;In my free time, I play tennis, take walks with my dog, and play the piano.\
 ✉️ &nbsp;You can shoot me an email at narayaurrutia@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Portfolio](https://nicolas-araya.com/) for more details about my personal projects. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [portfolio](https://nicolas-araya.com/) for more details about my personal projects. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Programmer Coding" src="https://raw.githubusercontent.com/nicolas772/nicolas772/master/assets/programmer.gif" align="right" width="350" height="auto"/>
 
 ### 🛠 &nbsp;Tech Stack
 
