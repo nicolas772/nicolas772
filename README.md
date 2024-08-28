@@ -1,6 +1,7 @@
 <!--![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)-->
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='55' align="left"/><h2>Hey there! I'm Nicolas</h2>
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='55' align="left"/><h2>Hey there! I'm Nicolas</h2><img alt="Programmer Coding" src="https://raw.githubusercontent.com/nicolas772/nicolas772/master/assets/programmer.gif" align="center" width="200"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -10,8 +11,6 @@
 🎾 &nbsp;In my free time, I play tennis, take walks with my dog, and play the piano.\
 ✉️ &nbsp;You can shoot me an email at narayaurrutia@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [portfolio](https://nicolas-araya.com/) for more details about my personal projects. I'm open to feedback and suggestions!
-
-<img alt="Programmer Coding" src="https://raw.githubusercontent.com/nicolas772/nicolas772/master/assets/programmer.gif" align="right" width="320"/>
 
 ### 🛠 &nbsp;Tech Stack
 
