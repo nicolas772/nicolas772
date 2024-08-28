@@ -1,7 +1,11 @@
 <!--![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)-->
 
+<p align="center">
+  <img alt="Programmer Coding" src="https://raw.githubusercontent.com/nicolas772/nicolas772/master/assets/programmer.gif" width="200"/>
+</p>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='55' align="left"/><h2>Hey there! I'm Nicolas</h2><img alt="Programmer Coding" src="https://raw.githubusercontent.com/nicolas772/nicolas772/master/assets/programmer.gif" align="center" width="200"/>
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='55' align="left"/><h2>Hey there! I'm Nicolas</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -32,7 +36,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/nicolas772">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicolas772&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nicolas772&layout=compact&langs_count=8&theme=algolia"/>
