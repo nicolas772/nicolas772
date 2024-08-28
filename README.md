@@ -6,8 +6,8 @@
 
 🎓 &nbsp;I'm a Computer Science Engineer from the Federico Santa María Technical University in Santiago, Chile.\
 💡 &nbsp;I specialize in software development, both backend and frontend, and hold an AWS Cloud Practitioner certification.\
-🌱 &nbsp;I'm on track for learning more about Cloud Architecture, UX Design and Testing tools.\
-✍️ &nbsp;In my free time, I play tennis, take walks with my dog, and play the piano.\
+💻 &nbsp;I'm on track for learning more about Cloud Architecture, UX Design and Testing tools.\
+🎾 &nbsp;In my free time, I play tennis, take walks with my dog, and play the piano.\
 ✉️ &nbsp;You can shoot me an email at narayaurrutia@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [portfolio](https://nicolas-araya.com/) for more details about my personal projects. I'm open to feedback and suggestions!
 
